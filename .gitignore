@@ -1,0 +1,27 @@
+# Modelos YOLO (pesan mucho)
+*.pt
+
+# Vídeos de prueba
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Datos generados / subidas
+upload/
+outputs/
+reports/
+
+# Cachés de Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Entornos locales
+.venv/
+venv/
+
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db
